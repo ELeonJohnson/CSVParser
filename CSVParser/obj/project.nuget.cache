@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b2XM2A5D7CuANt/erkZ+mqba4UPUje+RqLWtW7bnjHhhMjwVElcTItHAR1yMN9jROwy7NSC7FHgVEg4Nkc50yQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enoch\\Desktop\\repos\\CSVParser\\CSVParser\\CSVParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enoch\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\bin\Debug\net6.0\CSVParser.exe
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\bin\Debug\net6.0\CSVParser.deps.json
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\bin\Debug\net6.0\CSVParser.runtimeconfig.json
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\bin\Debug\net6.0\CSVParser.dll
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\bin\Debug\net6.0\ref\CSVParser.dll
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\bin\Debug\net6.0\CSVParser.pdb
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\obj\Debug\net6.0\CSVParser.csproj.AssemblyReference.cache
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\obj\Debug\net6.0\CSVParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\obj\Debug\net6.0\CSVParser.AssemblyInfoInputs.cache
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\obj\Debug\net6.0\CSVParser.AssemblyInfo.cs
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\obj\Debug\net6.0\CSVParser.csproj.CoreCompileInputs.cache
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\obj\Debug\net6.0\CSVParser.dll
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\obj\Debug\net6.0\ref\CSVParser.dll
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\obj\Debug\net6.0\CSVParser.pdb
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\obj\Debug\net6.0\CSVParser.genruntimeconfig.cache
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\enoch\Desktop\repos\CSVParser\CSVParser\obj\Debug\net6.0\CSVParser.csproj.CopyComplete
